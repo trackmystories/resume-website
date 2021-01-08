@@ -1,2 +1,0 @@
-# digital-profile
-# resume-website
