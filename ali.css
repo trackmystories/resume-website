@@ -3240,6 +3240,13 @@ body.has-expanded_location-map {
   background-image:url(assets/60096031586787863.svg)
 }
 
+.js-work .ali-shirazee_section-title:before {
+  background-image:url(assets/work.svg)
+}
+
+
+
+
 .js-code .ali-shirazee_section-title:before {
   background-image:url(assets/code-512.webp)
 }
